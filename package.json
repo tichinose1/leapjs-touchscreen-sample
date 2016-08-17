@@ -1,0 +1,20 @@
+{
+  "name": "leapjs-study2",
+  "version": "1.0.0",
+  "description": "* Visual Studio Code\r * Debugger for Chrome",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "leapjs": "^0.6.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://tichinose1@bitbucket.org/tichinose1/leapjs-study2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/tichinose1/leapjs-study2#readme"
+}
